@@ -85,5 +85,4 @@ voice-assistant/
 └── README.md              # This file
 
 
-### Project By
-T MUKESH
+
