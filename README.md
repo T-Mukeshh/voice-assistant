@@ -83,30 +83,7 @@ voice-assistant/
 │   └── assets/            # Static resources
 ├── data/                  # Data files and configurations
 └── README.md              # This file
-```
 
-## Getting Started Guide
 
-1. **Ensure Microphone**: Connect a working microphone to your system
-2. **Configure Settings**: Edit `engine/config.py` to customize commands
-3. **Run the App**: Execute `python main.py`
-4. **Grant Permissions**: Allow microphone access when prompted
-5. **Start Speaking**: Use voice commands to control your system
-
-## Troubleshooting
-
-- **Microphone not detected**: Check system audio settings and permissions
-- **Poor recognition**: Speak clearly and reduce background noise
-- **Commands not executing**: Verify command syntax in `engine/command.py`
-
-## Contributing
-
-Contributions are welcome! Feel free to submit issues or pull requests to enhance functionality.
-
-## License
-
-This project is open source and available for educational and personal use.
-
----
-
-**Questions or Issues?** Open an issue on the repository for support.
+### Project By
+T MUKESH
