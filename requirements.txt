@@ -1,0 +1,4 @@
+eel==0.14.0
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+selenium==4.15.2
